@@ -1,4 +1,7 @@
+<div align="center"> <img src="https://imgur.com/tsvou51" alt="marioburgos gif" width="100%" height="200px"/> </div>
+<hr>
 <h1 align="center">Hi 👋, I'm Mario Burgos</h1>
+<hr>
 <h3 align="center">Ambitious, creative, dedicated and highly motivated web developer. My objective is to create from scratch responsive and dynamic/interactive web solutions, and optimize them too.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marioburgos&label=Profile%20views&color=0e75b6&style=flat" alt="marioburgos" /> </p>
