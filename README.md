@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://imgur.com/tsvou51" alt="marioburgos gif" width="100%" height="200px"/> </div>
+<div align="center"> <img src="https://imgur.com/dQtwOT3" alt="marioburgos gif" width="100%" height="200px"/> </div>
 <hr>
 <h1 align="center">Hi 👋, I'm Mario Burgos</h1>
 <hr>
