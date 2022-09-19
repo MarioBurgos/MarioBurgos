@@ -1,6 +1,5 @@
-<div align="center"> <img src="https://imgur.com/dQtwOT3" alt="marioburgos gif" width="100%" height="200px"/> </div>
-<hr>
-<h1 align="center">Hi 👋, I'm Mario Burgos</h1>
+
+<div align="center"><img src="gif.gif" alt="marioburgos gif"  width="150" height="150"/>  </div><h1 align="center">         Hi 👋, I'm Mario Burgos</h1>
 <hr>
 <h3 align="center">Ambitious, creative, dedicated and highly motivated web developer. My objective is to create from scratch responsive and dynamic/interactive web solutions, and optimize them too.</h3>
 
