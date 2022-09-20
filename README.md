@@ -5,7 +5,7 @@
 </p>
 <hr><br>
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📖 I’m currently learning **Symphony (Self-taught), Springboot (IronHack), SEO/SEM (Self-taught)**
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📖 I’m currently learning **Springboot (IronHack), Symphony (Self-taught), SEO/SEM (Self-taught)**
 
 ![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📚 I've already finished these courses: **DAM (Formació Oficial CFGS), Frontend Angular (ITAcademy), Desarrollo web con PHP (Nascor Formación)**
 
