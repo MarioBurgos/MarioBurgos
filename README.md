@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mario.burpi@gmail.com**
 
-- ⚡ Fun fact: <br>&nbsp;&nbsp;&nbsp;&nbsp;*The most used programming language in the globe is... Profanity...**
+- ⚡ Fun fact: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The most used language in programming is... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profanity.*
 <br>
 <hr>
 
