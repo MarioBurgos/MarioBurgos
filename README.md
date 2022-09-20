@@ -1,5 +1,5 @@
-<div align="center"><img align="center" src="img/1.png" alt="1" height="100%" />
-  <img align="center" src="img/wa_icon.png" alt="whatsapp" height="100%" />
+<div align="center"><img align="center" src="img/1.png" alt="1" width="100%" />
+  <img align="center" src="img/2.png" alt="2" width="100%" />
   </div>
 <h3 align="center">#OPEN-TO-WORK :</h3>
 <p align="center">
