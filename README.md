@@ -2,19 +2,23 @@
 <div align="center"><img src="logo_1_full_lg.png" alt="marioburgos gif"  width="100%" height="350"/></div>
 <h1 align="center">Hi 👋, I'm Mario Burgos</h1>
 <br>
-<h3 align="center">Ambitious, creative, dedicated and highly motivated web developer. My objective is to create from scratch responsive and dynamic/interactive web solutions, and optimize them too.</h3>
+<h3 align="center">Ambitious, creative, dedicated and highly motivated web developer.
+  <br> 
+  I create responsive and dynamic/interactive web solutions from scratch.  I optimize them too.</h3>
 <br>
 <hr><br>
 
-- 🌱 I’m currently learning **Symphony, Springboot, Angular, SEO/SEM**
+- 📖 I’m currently learning **Symphony (Self-taught), Springboot (IronHack), SEO/SEM (Self-taught)**
 
-- 👯 I’m currently collaborating on [FSS](https://fundacionssegui.org/barcelona/)
+- 📚 I've already finished these courses: **DAM (Formació Oficial CFGS), Frontend Angular (ITAcademy), Desarrollo web con PHP (Nascor Formación)**
 
-- 💬 Ask me about **HTML5; CSS3; Javascript; jQuery; Angular & Typescript; Java vanilla; How my life's going...**
+- 🛠️ I’m collaborating at [Fundació Salvador Seguí](https://fundacionssegui.org/barcelona/), mantaining their website and adding new content.
+
+- 💬 Ask me about **HTML5; CSS3; Javascript; jQuery; Angular & Typescript; Java vanilla; SQL Databases; How my life's going...**
 
 - 📫 How to reach me **mario.burpi@gmail.com**
 
-- ⚡ Fun fact: <br>*The most used programming language in the globe is... Profanity...**
+- ⚡ Fun fact: <br>&nbsp;&nbsp;&nbsp;&nbsp;*The most used programming language in the globe is... Profanity...**
 <br>
 <hr>
 
