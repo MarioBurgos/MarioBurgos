@@ -8,17 +8,17 @@
 <br>
 <hr><br>
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png) 📖 I’m currently learning **Symphony (Self-taught), Springboot (IronHack), SEO/SEM (Self-taught)**
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📖 I’m currently learning **Symphony (Self-taught), Springboot (IronHack), SEO/SEM (Self-taught)**
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png) 📚 I've already finished these courses: **DAM (Formació Oficial CFGS), Frontend Angular (ITAcademy), Desarrollo web con PHP (Nascor Formación)**
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📚 I've already finished these courses: **DAM (Formació Oficial CFGS), Frontend Angular (ITAcademy), Desarrollo web con PHP (Nascor Formación)**
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png) 🛠️ I’m collaborating at [Fundació Salvador Seguí](https://fundacionssegui.org/barcelona/), mantaining their website and adding new content.
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 🛠️ I’m collaborating at [Fundació Salvador Seguí](https://fundacionssegui.org/barcelona/), mantaining their website and adding new content.
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png) 💬 Ask me about **HTML5; CSS3; Javascript; jQuery; Angular & Typescript; Java vanilla; SQL Databases; How my life's going...**
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 💬 Ask me about **HTML5; CSS3; Javascript; jQuery; Angular & Typescript; Java vanilla; SQL Databases; How my life's going...**
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png) 📫 How to reach me **mario.burpi@gmail.com**
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📫 How to reach me **mario.burpi@gmail.com**
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png) ⚡ Fun fact: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The most used language in programming is... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profanity.*
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 🤓 Fun fact: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The most used language in programming is... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profanity.*
 <br>
 <hr>
 
