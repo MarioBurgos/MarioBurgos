@@ -10,6 +10,7 @@
 <a href="https://wa.me/34675023783" target="blank"><img align="center" src="img/wa_icon.png" alt="whatsapp" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:mario.burpi@gmail.com" target="blank"><img align="center" src="img/mail.png" alt="email" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/marioburgos_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marioburgos_dev" height="40" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/marioburgospiedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario burgos" height="40" width="50" /></a>
 </div>
 <br><hr><br>
+
 ![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📖 I’m currently learning **Symphony (Self-taught), Springboot (IronHack), SEO/SEM (Self-taught)**
 
 ![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📚 I've already finished these courses: **DAM (Formació Oficial CFGS), Frontend Angular (ITAcademy), Desarrollo web con PHP (Nascor Formación)**
