@@ -1,5 +1,5 @@
 <p align="right"> <a href="https://twitter.com/marioburgos_dev" target="blank"><img src="https://img.shields.io/twitter/follow/marioburgos_dev?logo=twitter&style=for-the-badge" alt="marioburgos_dev" /></a> </p>
-<div align="center"><img src="logo_1_full_lg.png" alt="marioburgos gif"  width="100%" height="350"/></div>
+<div align="center"><img src="img/logo_1_full_lg.png" alt="marioburgos gif"  width="100%" height="350"/></div>
 <h1 align="center">Hi 👋, I'm <strong>Mario Burgos</strong></h1>
 <br>
 <h3 align="center">Ambitious, creative, dedicated and highly motivated web developer.
@@ -24,8 +24,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+<a href="https://ta.me/34675023783" target="blank"><img align="center" src="img/wa_icon.png alt="marioburgos_dev" height="30" width="40" /></a>
+  
 <a href="https://twitter.com/marioburgos_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marioburgos_dev" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/marioburgospiedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario burgos" height="30" width="40" /></a>
+  
 </div>
 <hr>
 <h3 align="center">Languages and Tools:</h3><br>
