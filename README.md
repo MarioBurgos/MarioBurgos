@@ -24,7 +24,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<a href="https://ta.me/34675023783" target="blank"><img align="center" src="img/wa_icon.png alt="marioburgos_dev" height="30" width="40" /></a>
+<a href="https://wa.me/34675023783" target="blank"><img align="center" src="img/wa_icon.png alt="marioburgos_dev" height="30" width="40" /></a>
   
 <a href="https://twitter.com/marioburgos_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marioburgos_dev" height="30" width="40" /></a>
   
