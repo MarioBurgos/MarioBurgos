@@ -1,6 +1,6 @@
-
+<p align="right"> <a href="https://twitter.com/marioburgos_dev" target="blank"><img src="https://img.shields.io/twitter/follow/marioburgos_dev?logo=twitter&style=for-the-badge" alt="marioburgos_dev" /></a> </p>
 <div align="center"><img src="logo_1_full_lg.png" alt="marioburgos gif"  width="100%" height="350"/></div>
-<h1 align="center">Hi 👋, I'm Mario Burgos</h1>
+<h1 align="center">Hi 👋, I'm <strong>Mario Burgos</strong></h1>
 <br>
 <h3 align="center">Ambitious, creative, dedicated and highly motivated web developer.
   <br> 
@@ -8,17 +8,17 @@
 <br>
 <hr><br>
 
-- 📖 I’m currently learning **Symphony (Self-taught), Springboot (IronHack), SEO/SEM (Self-taught)**
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png) 📖 I’m currently learning **Symphony (Self-taught), Springboot (IronHack), SEO/SEM (Self-taught)**
 
-- 📚 I've already finished these courses: **DAM (Formació Oficial CFGS), Frontend Angular (ITAcademy), Desarrollo web con PHP (Nascor Formación)**
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png) 📚 I've already finished these courses: **DAM (Formació Oficial CFGS), Frontend Angular (ITAcademy), Desarrollo web con PHP (Nascor Formación)**
 
-- 🛠️ I’m collaborating at [Fundació Salvador Seguí](https://fundacionssegui.org/barcelona/), mantaining their website and adding new content.
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png) 🛠️ I’m collaborating at [Fundació Salvador Seguí](https://fundacionssegui.org/barcelona/), mantaining their website and adding new content.
 
-- 💬 Ask me about **HTML5; CSS3; Javascript; jQuery; Angular & Typescript; Java vanilla; SQL Databases; How my life's going...**
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png) 💬 Ask me about **HTML5; CSS3; Javascript; jQuery; Angular & Typescript; Java vanilla; SQL Databases; How my life's going...**
 
-- 📫 How to reach me **mario.burpi@gmail.com**
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png) 📫 How to reach me **mario.burpi@gmail.com**
 
-- ⚡ Fun fact: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The most used language in programming is... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profanity.*
+![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png) ⚡ Fun fact: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The most used language in programming is... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profanity.*
 <br>
 <hr>
 
@@ -34,5 +34,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marioburgos&show_icons=true&locale=en&layout=compact" alt="marioburgos" /></p>-->
 <br><br>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=marioburgos&label=Profile%20views&color=0e75b6&style=flat" alt="marioburgos" /> </p>
 
