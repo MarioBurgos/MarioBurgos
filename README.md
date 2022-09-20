@@ -1,4 +1,4 @@
-<h1 align="center"><img src="img/cv_1.png" alt="cv"  width="50%"/><img src="img/cv_2.png" alt="cv"  width="50%"/></h1>
+<h1 align="center"><img src="img/cv_1.png" alt="cv"  width="40%"/><img src="img/cv_2.png" alt="cv"  width="40%"/></h1>
 <h3 align="center">#OPEN-TO-WORK :</h3>
 <p align="center">
 <a href="https://wa.me/34675023783" target="blank"><img align="center" src="img/wa_icon.png" alt="whatsapp" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:mario.burpi@gmail.com" target="blank"><img align="center" src="img/mail.png" alt="email" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/marioburgos_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marioburgos_dev" height="40" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/marioburgospiedra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario burgos" height="40" width="50" /></a>
