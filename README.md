@@ -1,4 +1,3 @@
-<p align="right"> <a href="https://twitter.com/marioburgos_dev" target="blank"><img src="https://img.shields.io/twitter/follow/marioburgos_dev?logo=twitter&style=for-the-badge" alt="marioburgos_dev" /></a> </p>
 <h1 align="center"><img src="img/cv_1.png" alt="cv"  width="50%"/><img src="img/cv_2.png" alt="cv"  width="50%"/></h1>
 <br>
 <h3 align="center">#OPEN-TO-WORK :</h3>
