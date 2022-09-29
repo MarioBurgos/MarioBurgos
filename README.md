@@ -28,7 +28,5 @@
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marioburgos&show_icons=true&locale=en&layout=compact" alt="marioburgos" /></p>-->
 <br><br>
 
-<div align="center"><h3 align="center">More...</h3><img align="center" src="img/1.png" alt="1" width="100%" />
-  <img align="center" src="img/2.png" alt="2" width="100%" />  </div>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=marioburgos&label=Profile%20views&color=0e75b6&style=flat" alt="marioburgos" /> </p>
 
