@@ -20,7 +20,6 @@
 
 ![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📫 How to reach me **mario.burpi@gmail.com**
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 🤓 Fun fact: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The most used language in programming is... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profanity.*
 <br>
 <br>
 <hr>
