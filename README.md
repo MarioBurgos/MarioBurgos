@@ -25,13 +25,13 @@
 </p>
 <hr>
 
-📖 I’m currently perfecting **Microservices architectures | OAuth | Spring Security | JWT**
+📖 I’m currently perfecting <br> **Microservices architectures | OAuth | Spring Security | JWT**
 
-📚 I've already finished these courses: **DAM (Formació Oficial CFGS) | Frontend Angular (ITAcademy) | Backend Spring boot (Ironhack) | Desarrollo web (Nascor Formación)**
+📚 I've already finished these courses <br> **DAM (Formació Oficial CFGS) | Frontend Angular (ITAcademy) | Backend Spring boot (Ironhack) | Desarrollo web (Nascor Formación)**
 
-🛠️ I’m collaborating at **[Fundació Salvador Seguí](https://fundacionssegui.org/barcelona/) | Dooby webs**
+🛠️ I’m collaborating at <br> **[Fundació Salvador Seguí](https://fundacionssegui.org/barcelona/) | Dooby webs**
 
-💬 Ask me about **HTML5 | CSS3 | Javascript | jQuery | Angular | Java Springboot | SQL Databases | PHP | How my life's going...**
+💬 Ask me about <br> **HTML5 | CSS3 | Javascript | jQuery | Angular | Java Springboot | SQL Databases | PHP | How my life's going...**
 
 📫 How to reach me:&nbsp;&nbsp;&nbsp;&nbsp; **mario.burgos.dev@gmail.com**
 
