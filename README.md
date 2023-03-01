@@ -1,9 +1,5 @@
 <div align="center"><img src="img/logo_github.png" alt="marioburgos"  width="100%"/></div>
-<h3 align="center">#OPEN-TO-WORK :</h3>
-<p align="center">
-<a href="https://www.sc.edu/sorry.php" target="_blank"><img align="center" src="img/wa_icon.png" alt="whatsapp" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:mario.burgos.dev@gmail.com" target="_blank"><img align="center" src="img/mail.png" alt="email" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/marioburgos_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marioburgos_dev" height="40" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/marioburgospiedra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario burgos" height="40" width="50" /></a>
-</p>
-<hr>
+
 <h3 align="center">Experience in:</h3><br>
   <p align="center"> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
