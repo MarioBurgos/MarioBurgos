@@ -39,8 +39,7 @@
 
 ![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📫 How to reach me:&nbsp;&nbsp;&nbsp;&nbsp; **mario.burgos.dev@gmail.com**
 
-<br>
-<br>
+
 <hr>
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marioburgos&show_icons=true&locale=en&layout=compact" alt="marioburgos" /></p>-->
