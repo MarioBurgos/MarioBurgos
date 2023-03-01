@@ -25,15 +25,15 @@
 </p>
 <hr>
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📖 I’m currently perfecting **Microservices architectures | OAuth | Spring Security | JWT**
+📖 I’m currently perfecting **Microservices architectures | OAuth | Spring Security | JWT**
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📚 I've already finished these courses: **DAM (Formació Oficial CFGS) | Frontend Angular (ITAcademy) | Backend Spring boot (Ironhack) | Desarrollo web (Nascor Formación)**
+📚 I've already finished these courses: **DAM (Formació Oficial CFGS) | Frontend Angular (ITAcademy) | Backend Spring boot (Ironhack) | Desarrollo web (Nascor Formación)**
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 🛠️ I’m collaborating at **[Fundació Salvador Seguí](https://fundacionssegui.org/barcelona/) | Dooby webs **
+🛠️ I’m collaborating at **[Fundació Salvador Seguí](https://fundacionssegui.org/barcelona/) | Dooby webs **
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 💬 Ask me about **HTML5; CSS3; Javascript; jQuery; Angular & Typescript; Java vanilla; SQL Databases; How my life's going...**
+💬 Ask me about **HTML5 | CSS3 | Javascript | jQuery | Angular | Java Springboot | SQL Databases | PHP | How my life's going...**
 
-![#a1cba4](https://via.placeholder.com/15/a1cba4/a1cba4.png)&nbsp;&nbsp;&nbsp; 📫 How to reach me:&nbsp;&nbsp;&nbsp;&nbsp; **mario.burgos.dev@gmail.com**
+📫 How to reach me:&nbsp;&nbsp;&nbsp;&nbsp; **mario.burgos.dev@gmail.com**
 
 
 <hr>
