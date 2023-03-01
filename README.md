@@ -29,7 +29,7 @@
 
 📚 I've already finished these courses: **DAM (Formació Oficial CFGS) | Frontend Angular (ITAcademy) | Backend Spring boot (Ironhack) | Desarrollo web (Nascor Formación)**
 
-🛠️ I’m collaborating at **[Fundació Salvador Seguí](https://fundacionssegui.org/barcelona/) | Dooby webs **
+🛠️ I’m collaborating at **[Fundació Salvador Seguí](https://fundacionssegui.org/barcelona/) | Dooby webs**
 
 💬 Ask me about **HTML5 | CSS3 | Javascript | jQuery | Angular | Java Springboot | SQL Databases | PHP | How my life's going...**
 
